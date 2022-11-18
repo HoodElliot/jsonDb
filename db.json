@@ -1,11 +1,11 @@
 {
   "movies": [
-    { "id": 1, "title": "Movie 1" , "categoryy": "Horror", "state": "Available" , "days" : 0},
-    { "id": 2, "title": "Movie 2" , "categoryy": "Crime",  "state": "Available" , "days" : 0},
-    { "id": 3, "title": "Movie 3" , "categoryy": "Comedy", "state": "Available" , "days" : 0},
-    { "id": 4, "title": "Movie 4" , "categoryy": "Crime",  "state": "Available" , "days" : 0},
-    { "id": 5, "title": "Movie 5" , "categoryy": "Comedy", "state": "Available" , "days" : 0},
-    { "id": 6, "title": "Movie 6" , "categoryy": "Horror", "state": "Available" , "days" : 0},
-    { "id": 7, "title": "Movie 7" , "categoryy": "Comedy", "state": "Available" , "days" : 0}
+    { "id": 1, "title": "Movie 1" , "categoryy": "Horror", "state": "Available" , "days" : 0, "GAME": "overwatch"},
+    { "id": 2, "title": "Movie 2" , "categoryy": "Crime",  "state": "Available" , "days" : 0, "GAME": "overwatch"},
+    { "id": 3, "title": "Movie 3" , "categoryy": "Comedy", "state": "Available" , "days" : 0, "GAME": "overwatch"},
+    { "id": 4, "title": "Movie 4" , "categoryy": "Crime",  "state": "Available" , "days" : 0, "GAME": "overwatch"},
+    { "id": 5, "title": "Movie 5" , "categoryy": "Comedy", "state": "Available" , "days" : 0, "GAME": "overwatch"},
+    { "id": 6, "title": "Movie 6" , "categoryy": "Horror", "state": "Available" , "days" : 0, "GAME": "overwatch"},
+    { "id": 7, "title": "Movie 7" , "categoryy": "Comedy", "state": "Available" , "days" : 0, "GAME": "overwatch"}
   ]
 }
